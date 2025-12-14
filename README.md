@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://r-onie.github.io/Portfolio-website/](https://r-onie.github.io/Portfolio-website/)
 
-- 💬 Ask me about **AI, ML, Datascience,cloud basics, cybersecurity**
+- 💬 Ask me about **AI, ML, Datascience, cybersecurity..**
 
 - 📫 How to reach me **oniesah3@gmail.com**
 
